@@ -3,7 +3,7 @@ ethereum-miner-aloha
 
 Find precise hardware specs and BIOS settings on the [_aloha_ 6x RX580 Ethereum mining rig](https://theminingking.com/blog/2017/11/09/Ethereum-Mining-Rig-Prototyping-and-Market-Investigation/).
 
-aloha is currently mining on [Dwarfpool](http://dwarfpool.com/eth/address/?wallet=7e5533116dbd23b113d3288aacbf4d2122f88ad3).
+aloha is currently mining on [Dwarfpool](http://dwarfpool.com/eth/address/?wallet=d24def0856636050cf891befc0fa69ecf96c160b).
 
 
 ## The software

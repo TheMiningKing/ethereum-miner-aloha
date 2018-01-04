@@ -3,14 +3,14 @@
 #
 # Plain connection
 #
-#ethminer -G -F http://eth-us.dwarfpool.com:80/0x7e5533116dbd23b113d3288aacbf4d2122f88ad3/aloha
+#ethminer -G -F http://eth-us.dwarfpool.com:80/0xd24def0856636050cf891befc0fa69ecf96c160b/aloha
 
 #
 # Detached session
 #
 # Use `screen -x ethminer` to attach and view `ethminer` output. Hold `Ctrl-A-D` to detach
 #
-#screen -dmS ethminer /usr/local/bin/ethminer -G -F http://eth-us.dwarfpool.com:80/0x7e5533116dbd23b113d3288aacbf4d2122f88ad3/aloha
+#screen -dmS ethminer /usr/local/bin/ethminer -G -F http://eth-us.dwarfpool.com:80/0xd24def0856636050cf891befc0fa69ecf96c160b/aloha
 
 #
 # Stratum proxy
